@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/ThirdPerson/Input/IMC_Default1.uasset",
+				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/Menus/WB_PauseMenu.uasset",
+				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/Blueprint2D/Personnage/BP_Personnage.uasset",
+				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/Blueprint2D/Personnage/BP_Personnage_newWallRun.uasset",
 				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Architecture/Danger/BP_PiqueMort.uasset",
 				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Danger/BP_PiqueMort.uasset",
