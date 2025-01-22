@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/luke.duplan/Documents/GitHub/WallRun-Project/Content/MaterialFX/T_Voronoi01.uasset",
+				"C:/Users/luke.duplan/Documents/GitHub/WallRun-Project/Content/FX/SM_Smoke01.uasset",
+				"C:/Users/luke.duplan/Documents/GitHub/WallRun-Project/Content/MaterialFX/M_Smoke.uasset",
+				"C:/Users/luke.duplan/Documents/GitHub/WallRun-Project/Content/SM_Smoke01.uasset",
+				"C:/Users/luke.duplan/Documents/GitHub/WallRun-Project/Content/MaterialFX/Mi_Smoke01.uasset",
+				"C:/Users/luke.duplan/Documents/GitHub/WallRun-Project/Content/FX/NS_StylizedSmoke.uasset",
 				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/ThirdPerson/Input/IMC_Default1.uasset",
 				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/Menus/WB_PauseMenu.uasset",
 				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
