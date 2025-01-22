@@ -6,11 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/Blueprint2D/map/CheckPoint/checkPoint.uasset",
-				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/Blueprint2D/map/Architecture/CheckPoint/checkPoint.uasset",
 				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/Blueprint2D/map/Architecture/mouvant/BP_MurAPiquesMouvant.uasset",
 				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/H4/UFS9911YXKSCDA1YWZI6IW.uasset",
 				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/Blueprint2D/map/Architecture/Danger/BP_PiqueMort.uasset",
 				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MC/NKGP9TROAIJ7N2FMA9296W.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IH/WOZOXASBNMFZOC03QGV3EW.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/WallRun-Project/Content/Blueprint2D/map/Architecture/CheckPoint/checkPoint.uasset",
 				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/ThirdPerson/Input/IMC_Default1.uasset",
 				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/Menus/WB_PauseMenu.uasset",
 				"C:/Users/Utilisateur/WallRun/WallRun-Project/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
